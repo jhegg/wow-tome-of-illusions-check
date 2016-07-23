@@ -24,3 +24,5 @@ and I'm tired of searching in the Wardrobe to determine which ones I have.
 ## Where can I download official releases of this addon?
 
 * [GitHub (development site)](https://github.com/jhegg/wow-tome-of-illusions-check/)
+* [Curse](http://mods.curse.com/addons/wow/tomeofillusionscheck)
+* [WoWInterface](http://www.wowinterface.com/downloads/info24069-TomeOfIllusionsCheck.html)
