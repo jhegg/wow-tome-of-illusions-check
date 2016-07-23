@@ -16,6 +16,9 @@ and you mouseover it in the Auction House, then the bottom of the tooltip
 will say "Have not learned this tome". However, if you have already learned it,
 then the tooltip will say "Already learned this tome".
 
+You can also use the /tomecheck command to print out the list of tomes to your
+chat window, along with whether they are known or unknown.
+
 ## I created this addon because:
 
 * The game is not obvious about whether or not I have already learned the tomes,

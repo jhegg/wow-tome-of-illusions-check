@@ -2,6 +2,11 @@
 ## Title: TomeOfIllusionsCheck
 ## Notes: Tells you whether you have learned a specific Tome of Illusions
 ## Author: Marihk
-## Version: v1.0
+## Version: v1.1
+
+lib\LibStub\Libstub.lua
+lib\CallbackHandler-1.0\CallbackHandler-1.0.lua
+lib\AceAddon-3.0\AceAddon-3.0.xml
+lib\AceEvent-3.0\AceEvent-3.0.xml
 
 TomeOfIllusionsCheck.lua
