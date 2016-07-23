@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: TomeOfIllusionsCheck
+## Notes: Tells you whether you have learned a specific Tome of Illusions
+## Author: Marihk
+## Version: v1.0
+
+TomeOfIllusionsCheck.lua
