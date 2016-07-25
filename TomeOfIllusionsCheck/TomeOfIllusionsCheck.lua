@@ -90,7 +90,8 @@ local lineAdded = false
 
 local function OnIllusionBookTooltipAddLine(tooltip, ...)
    if not lineAdded then
-      local name, link = tooltip:GetItem()
+      local _, link = tooltip:GetItem()
+      if not link then return end
       local itemId = tonumber(string.match(link, 'item:(%d+):'))
       local questId = TomeOfIllusionsCheck.tomesToQuests[itemId]
       if questId then
