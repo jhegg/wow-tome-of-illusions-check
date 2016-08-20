@@ -42,6 +42,10 @@ TomeOfIllusionsCheck = {
   	 [138838] = 42948, -- Illusion: Deathfrost
   	 [138954] = 42972, -- Illusion: Poisoned (Rogue)
   	 [138802] = 42898, -- Illusion: Power Torrent
+     -- The illusion and quest IDs below were provided by Salty on Curse.
+     -- Thank you for contributing!
+     [118572] = 42946, -- Illusion - Flames of Ragnaros
+     [128649] = 42947, -- Illusion - Winter's Grasp
   },
 }
 

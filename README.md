@@ -27,8 +27,10 @@ and I'm tired of searching in the Wardrobe to determine which ones I have.
 
 ## Who helped create this addon?
 
-* Brudarek on Curse.com graciously provided the data for the lootable weapon
-illusions. Thank you, Brudarek!
+* Brudarek on Curse.com graciously provided the data for many of the lootable
+weapon illusions. Thank you, Brudarek!
+* Salty on Curse.com graciously provided the data for additional lootable
+weapon illusions. Thank you, Salty!
 
 ## Where can I download official releases of this addon?
 
