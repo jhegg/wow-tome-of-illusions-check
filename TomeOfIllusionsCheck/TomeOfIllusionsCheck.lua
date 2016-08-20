@@ -14,6 +14,34 @@ TomeOfIllusionsCheck = {
      [138790] = 42874, -- Tome of Illusions: Northrend
      [138789] = 42873, -- Tome of Illusions: Outland
      [138787] = 42871, -- Tome of Illusions: Azeroth
+     -- The illusion and quest IDs below were provided by Brudarek on Curse.
+     -- Thank you for contributing!
+     [120287] = 42950, -- Enchanter's Illusion - Primal Victory
+  	 [120286] = 42949, -- Enchanter's Illusion - Glorious Tyranny
+  	 [138796] = 42891, -- Illusion: Executioner
+  	 [138797] = 42892, -- Illusion: Mongoose
+  	 [138798] = 42893, -- Illusion: Sunfire
+  	 [138799] = 42894, -- Illusion: Soulfrost
+  	 [138800] = 42895, -- Illusion: Blade Ward
+  	 [138801] = 42896, -- Illusion: Blood Draining
+  	 [138955] = 42973, -- Illusion: Rune of Razorice (DK)
+  	 [138803] = 42900, -- Illusion: Mending
+  	 [138804] = 42902, -- Illusion: Colossus
+  	 [138805] = 42906, -- Illusion: Jade Spirit
+  	 [138806] = 42907, -- Illusion: Mark of Shadowmoon
+  	 [138807] = 42908, -- Illusion: Mark of the Shattered Hand
+  	 [138808] = 42909, -- Illusion: Mark of the Bleeding Hollow
+  	 [138809] = 42910, -- Illusion: Mark of Blackrock
+  	 [138827] = 42934, -- Illusion: Nightmare
+  	 [138828] = 42938, -- Illusion: Chronos
+  	 [138832] = 42941, -- Illusion: Earthliving (Shaman)
+  	 [138833] = 42942, -- Illusion: Flametongue (Shaman)
+  	 [138834] = 42943, -- Illusion: Frostbrand (Shaman)
+  	 [138835] = 42944, -- Illusion: Rockbiter (Shaman)
+  	 [138836] = 42945, -- Illusion: Windfury (Shaman)
+  	 [138838] = 42948, -- Illusion: Deathfrost
+  	 [138954] = 42972, -- Illusion: Poisoned (Rogue)
+  	 [138802] = 42898, -- Illusion: Power Torrent
   },
 }
 

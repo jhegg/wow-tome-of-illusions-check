@@ -1,8 +1,8 @@
 ## Interface: 70000
 ## Title: TomeOfIllusionsCheck
-## Notes: Tells you whether you have learned a specific Tome of Illusions
+## Notes: Tells you whether you have learned a specific Tome of Illusions or Weapon Illusion
 ## Author: Marihk
-## Version: v1.2
+## Version: v2.0
 
 lib\LibStub\Libstub.lua
 lib\CallbackHandler-1.0\CallbackHandler-1.0.lua
