@@ -31,6 +31,8 @@ and I'm tired of searching in the Wardrobe to determine which ones I have.
 weapon illusions. Thank you, Brudarek!
 * Salty on Curse.com graciously provided the data for additional lootable
 weapon illusions. Thank you, Salty!
+* InvisiBill on Curse.com graciously provided an improvement to the tooltip
+message color/text. Thank you, InvisiBill!
 
 ## Where can I download official releases of this addon?
 
