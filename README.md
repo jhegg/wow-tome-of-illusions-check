@@ -13,8 +13,8 @@ bottom of the tooltip whether or not you have already learned it.
 
 For example, if you have not yet learned the 'Tome of Illusions - Northrend'
 and you mouseover it in the Auction House, then the bottom of the tooltip
-will say "Have not learned this tome". However, if you have already learned it,
-then the tooltip will say "Already learned this tome".
+will say "You haven't collected this tome". However, if you have already learned it,
+then the tooltip will say "You've collected this tome".
 
 You can also use the /tomecheck command to print out the list of tomes and
 lootable weapon illusions to your chat window, along with whether they are
