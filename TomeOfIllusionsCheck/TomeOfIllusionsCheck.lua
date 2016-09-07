@@ -127,13 +127,13 @@ local function OnIllusionBookTooltipAddLine(tooltip, ...)
       local itemId = tonumber(string.match(link, 'item:(%d+):'))
       local questId = TomeOfIllusionsCheck.tomesToQuests[itemId]
       if questId then
-         if IsQuestFlaggedCompleted(questId) then
-            tooltip:AddLine(format("Already learned this tome", itemId))
-            lineAdded = true
-         else
-            tooltip:AddLine(format("Have not learned this tome", itemId))
-            lineAdded = true
-         end
+        if IsQuestFlaggedCompleted(questId) then
+          tooltip:AddLine(format("|cFF32AA00You've collected this tome|r", itemId))
+          lineAdded = true
+        else
+          tooltip:AddLine(format("|cFF8BA3FDYou haven't collected this tome|r", itemId))
+          lineAdded = true
+        end
       end
    end
 end
