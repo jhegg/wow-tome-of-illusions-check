@@ -113,7 +113,8 @@ function TomeOfIllusionsCheck:PrintTomeCheck()
 
   print(addonName)
   for itemName, itemInfo in pairsByKeys(tomesByName) do
-    local questStatus = IsQuestFlaggedCompleted(itemInfo.questId) and "Known" or "Unknown"
+    local questStatus = IsQuestFlaggedCompleted(itemInfo.questId)
+      and "|cFF32AA00Known|r" or "|cFF8BA3FDUnknown|r"
     print(format("%s - %s", itemInfo.itemLink, questStatus))
   end
 end
